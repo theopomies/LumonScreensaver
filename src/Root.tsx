@@ -10,7 +10,7 @@ export const RemotionRoot: React.FC = () => {
     <Composition
       id="LumonBounce"
       component={LumonBounce}
-      durationInFrames={9000}
+      durationInFrames={3000}
       fps={30}
       width={fixtures.canvasWidth}
       height={fixtures.canvasHeight}
