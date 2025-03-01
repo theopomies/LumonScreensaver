@@ -268,7 +268,7 @@
 				DEVELOPMENT_TEAM = 7BXB27GZ3J;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lumon Screensaver";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "THEO POMIES 2025";
 				INFOPLIST_KEY_NSPrincipalClass = LumonScreensaverView;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				MACOSX_DEPLOYMENT_TARGET = 11.5;
@@ -292,7 +292,7 @@
 				DEVELOPMENT_TEAM = 7BXB27GZ3J;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lumon Screensaver";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "THEO POMIES 2025";
 				INFOPLIST_KEY_NSPrincipalClass = LumonScreensaverView;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				MACOSX_DEPLOYMENT_TARGET = 11.5;
